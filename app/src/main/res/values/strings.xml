@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MathStatistic1</string>
+    <string name="statistic">статистика</string>
+    <string name="variacRow">вариационный ряд</string>
+    <string name="number">числовой</string>
+    <string name="interval">интервальный</string>
+    <string name="variacRowQuestion">У вас уже есть составленный вариационный ряд?</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+    <string name="solve">решить</string>
+    <string name="btnResult">решить</string>
+    <string name="etHint">Введите числа через пробел без повторений</string>
+    <string name="help">справка</string>
+    <string name="et2Hint">Введите количество повторов этих чисел по порядку</string>
+    <string name="googleLens">распознать текст</string>
+    <string name="settings">настройки</string>
+    <string name="solveTextTranslate">распознать с переводчика</string>
+    <string name="solveTextPhoto">распознать с google photo</string>
+    <string name="solveTextHelp">Распознать текст с фото можно с помощью Google Lens (Гугл Объектив), он встроен в приложения гугл фото и гугл переводчик, если одно из этих приложений уже установлено на вашем устройстве нажмите соответствующую кнопку выше
+\n\ \n\Для того чтобы распознать текст через гугл переводчик необходимо:
+\n\1.Нажать кнопку камера в приложении
+\n\2.Сфотографировать текст или выбрать фото из галереи
+\n\ \n\Для того чтобы распознать текст через гугл фото необходимо:
+\n\1.Выбрать фото
+\n\2.Нажать "объектив"
+\n\ \n\После распознания значения с текста необходимо разделить одним пробелом между каждым значением</string>
+    <string name="settingKoefVariac">Однородность если коеф. вариации больше</string>
+    <string name="settingHintKoefVariac">введите %</string>
+    <string name="settingGoogleLensChoice">При распознавании текста автоматически использовать</string>
+    <string name="choiceTranslate">гугл переводчик</string>
+    <string name="choicePhoto">гугл фото</string>
+    <string name="save">сохранить</string>
+    <string name="reset">по умолчанию</string>
+    <string name="author">Автор</string>
+</resources>
